@@ -1,4 +1,4 @@
-# Card First Design, why try to fight the cards when you can just replace them??
+# Card First Design, why try to fight the cards when you can just embrace them??
 
 In the beginning there was nothing, and then Sam Altman gave us cards.
 
