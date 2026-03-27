@@ -17,5 +17,3 @@ yarn-error.log*
 # OS
 .DS_Store
 
-# IDE / tooling (local)
-.cursor/
