@@ -1,0 +1,32 @@
+{
+  "name": "lore-accurate-frontend-design-skill",
+  "version": "1.0.0",
+  "description": "Cursor agent skill: card-heavy visual system for frontend UI—cards as default building blocks, hierarchy via scale/depth/layering/contrast/density, dramatic heroes, rich surfaces. Use for web UIs, landing pages, dashboards, or card-first layouts.",
+  "license": "MIT",
+  "keywords": [
+    "cursor",
+    "skill",
+    "ai",
+    "frontend",
+    "design",
+    "card-ui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunkenInTime/card-first-design.git",
+    "directory": "lore-accurate-frontend-design-skill"
+  },
+  "homepage": "https://github.com/SunkenInTime/card-first-design/tree/main/lore-accurate-frontend-design-skill",
+  "bugs": {
+    "url": "https://github.com/SunkenInTime/card-first-design/issues"
+  },
+  "files": [
+    "lore-accurate-frontend-design",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "sync": "node sync-skill.mjs",
+    "prepublishOnly": "npm run sync"
+  }
+}
